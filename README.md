@@ -8,8 +8,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -20,8 +19,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -31,8 +29,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -53,8 +50,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -65,8 +61,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -93,8 +88,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -109,8 +103,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -125,8 +118,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -136,8 +128,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -153,8 +144,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -164,8 +154,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -175,8 +164,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -186,8 +174,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -197,8 +184,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -208,8 +194,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -219,8 +204,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -230,8 +214,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -241,8 +224,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
@@ -252,8 +234,7 @@
 
     </div>
 
-    ](#)
-*   [
+    ](#)*   [
 
     <div class="panel panel-primary">
 
